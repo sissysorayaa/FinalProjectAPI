@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify successfully get BBC News headlines</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dfbbd967-96ed-4ffb-813f-e47749569407</testCaseGuid>
+</TestCaseEntity>
